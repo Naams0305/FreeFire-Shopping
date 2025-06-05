@@ -1,0 +1,10 @@
+# Compiled class file
+/target/
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
