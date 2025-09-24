@@ -1,1 +1,1 @@
-Skibidi
+A basic Shopping web
